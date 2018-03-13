@@ -85,11 +85,11 @@ versionCode ="1">
     </platform>
     <plugin name="cordova-plugin-whitelist"  source="npm" />
     <plugin name="cordova-plugin-device"  source="npm" />
-    <plugin name="cordova-plugin-splashscreen" s source="npm" />
+    <plugin name="cordova-plugin-splashscreen"  source="npm" />
     <plugin name="cordova-plugin-ionic-webview"  source="npm" />
     <plugin name="cordova-plugin-ionic-keyboard"  source="npm"/>
     <plugin name="phonegap-plugin-barcodescanner" source="npm" />
     <allow-navigation href="http://192.168.43.31:8100" source="npm" />
-    <plugin name="cordova-plugin-x-toast" spec="^2.6.0" source="npm" />
+    <plugin name="cordova-plugin-x-toast"  source="npm" />
     <engine name="android" spec="7.0.0" />
 </widget>
